@@ -1,3 +1,5 @@
+# Calculator
+![](https://github.com/UchithmaSenevirathne/React-JS-Calculator/blob/main/src/assets/Screenshot%202024-05-16%20171309.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
